@@ -1,0 +1,10 @@
+[/]
+foreground-color='rgb(236,239,241)'
+visible-name='material'
+palette=['rgb(0,0,0)', 'rgb(255,23,68)', 'rgb(0,230,118)', 'rgb(255,196,0)', 'rgb(41,98,255)', 'rgb(170,0,255)', 'rgb(0,184,212)', 'rgb(170,170,170)', 'rgb(85,85,85)', 'rgb(213,0,0)', 'rgb(0,200,83)', 'rgb(255,255,0)', 'rgb(83,109,254)', 'rgb(224,64,251)', 'rgb(24,255,255)', 'rgb(255,255,255)']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-transparency=false
+bold-color-same-as-fg=true
+background-color='rgb(38,50,56)'
