@@ -4,6 +4,8 @@ Material terminal color scheme
 
 Installation
 ============
+Ubuntu
+---------
 1. Open terminal
 2. Go to Terminal -> Preferences
 3. Go to tab "Profiles"
@@ -16,3 +18,10 @@ Installation
    ```
    
 6. Switch terminal to the "material" profile and set it as default if you prefer.
+
+macOS
+---------
+1. Open terminal
+2. Go to Preferences (cmd + ,)
+3. Go to tab "Profiles"
+4. Import profile file (`Material.terminal`)
