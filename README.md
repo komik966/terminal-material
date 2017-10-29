@@ -1,6 +1,6 @@
 Material terminal color scheme
 ==============================
-![Image](./screenshot.jpg)
+![Image](./screenshot.png)
 
 Installation
 ============
